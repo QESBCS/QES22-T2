@@ -1,71 +1,131 @@
-# Medic By Themefisher
-If your goal is to create a professional medical website, look no further than Medic. The Medic can be implemented on any health clinic, dentist, private doctor, or surgeon website.
+# Content
 
+---
 
-<!-- demo -->
-## Example Site
-| [![](screenshots/homepage.png)](https://demo.themefisher.com/medic/index.html) | [![](screenshots/about.png)](https://demo.themefisher.com/medic/about.html) | [![](screenshots/service.png)](https://demo.themefisher.com/medic/service.html) |
-|:---:|:---:|:---:|
-| **Homepage**  | **About**  | **Service**  |
-| [![](screenshots/gallery.png)](https://demo.themefisher.com/medic/gallery.html) | [![](screenshots/team.png)](https://demo.themefisher.com/medic/team.html) | [![](screenshots/contact.png)](https://demo.themefisher.com/medic/contact.html) |
-| **Gallery** | **Team** | **Contact** |
+# Readme
 
-👉🏻[View Live Preview](https://demo.themefisher.com/medic/)
+This is a page for collecting frequently asked questions about 
 
+[Universal Game ID](https://www.notion.so/Universal-Game-ID-d45b23d6088c44be80f537783e1a4983)
 
-<!-- download -->
-## Download And installation
-Download this template from any following options:
+---
 
-* Download from [Github](https://github.com/themefisher/Medic-Bootstrap-Medical-Template/archive/master.zip)
-* Clone the repository: `git clone https://github.com/themefisher/Medic-Bootstrap-Medical-Template.git`
-* Download from [Themefisher](https://themefisher.com/products/medic-medical-template/)
+# General
 
+### What is Universal Game ID?
 
-<!-- installation -->
-### Basic Usage
-After downloading template, you can simply edit the HTML and CSS files from the `builds` folder. To preview the changes you make to the code, you can open the index.html file in your web browser.
+Universal Game ID is a concept that anyone has their own game account/identity.They can1. prove their ownership of assets across various gaming [platforms.It](http://platforms.It) can used for a wider variety of transactions.
 
-### Advanced Usage
-For advanced usage you have some dependencies to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
+### What is the minimum system for Universal Game ID?
 
-#### Install Dependencies
-* **Node Installation:** [Install node js](https://nodejs.org/en/download/)
-* **Gulp Installation:** Install gulp globally from your terminal 
-```
-npm install --global gulp-cli
-```
-Or visit original [docs](https://gulpjs.com/docs/en/getting-started/quick-start)
+The minimum required system :
 
-#### Run Theme
-After succesfully install those dependencies, open this theme with any IDM [[VS Code](https://code.visualstudio.com/) recommended], and then open internal terminal of IDM [vs code shortcut <code>ctrl/cmd+\`</code>]
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
 
-* Install node package modules
-```
-npm install
-```
-* Run gulp
-```
-gulp
-```
-After that, it will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved.
+### Is it compatible with ios or android? On mobile or computer?
 
-👉🏻 [visit documentation](https://docs.themefisher.com/medic/)
+Since it is universal, it is compatible on any devices.no matter the computer or moblie
 
+### How to change password/account
 
-<!-- reporting issue -->
-## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Meghna Template. Please Search [existing issues](https://github.com/themefisher/Medic-Bootstrap-Medical-Template/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/Medic-Bootstrap-Medical-Template/issues).
+### Changing password
 
-<!-- support -->
-## Technical Support or Questions (Paid)
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
+1. Click on the change password button.
+2. Enter your old password. 
+3. Enter your new password.
+4. Confirm it by typing the new password again.
 
-<!-- licence -->
-## License
-Copyright &copy; 2020 Designed & Developed by [Themefisher](https://themefisher.com)
+The system will automatically change your password to the new one.
 
-**Code License:** Released under the [MIT](https://github.com/themefisher/Medic-Bootstrap-Medical-Template/blob/master/LICENSE) license.
+### Changing account
 
-**Image license:** The images are only for demonstration purposes. They have their own licence, we don't have permission to share those image.
+1. Click on the change account button.
+2. Click on the account you want to change to.
+3. You may have to enter the password to the account, depending on your used frequency.
+
+### How do I recover my account?
+
+### How can I seek help?
+
+# Register
+
+### How can I register and log in?
+
+### Registering
+
+1. Click on the register button.
+2. Enter your name, your name for the account and your password. You have to confirm the password by entering it again.
+3. *Enter your backup account or/and your backup phone number.
+
+You can edit your backup account and your backup phone number after registering.
+
+(*Can be omitted)
+
+### Logging in
+
+1. Click on the log in button.
+2. Enter your account name.
+3. Enter your password.
+
+You can choose whether you want the system to save your account. If yes, your account will be saved on the log in page.
+
+### How to register items?
+
+# Usage
+
+### What is it used for
+
+It can be used for buyers and sellers to trade different game items. To use the Universal Game ID, at least one game must be downloaded.
+
+### Do I need a separate account to buy/sell?
+
+No separate accounts are needed. All accounts can be used to buy or sell any items.
+
+# Purchase
+
+### How to buy items?
+
+### How to exchange items?
+
+### Where can I find my transaction records
+
+### How do I cash out
+
+# Sale
+
+### How can I change the price of an item that is for sale
+
+### What is the upper limit of sale
+
+The upper limit of sale depends on the item’s type, rarity and ways to obtain in game. The upper limit of sale is not fixed for all items. For an item with higher rarity, the upper limit is higher.
+
+### How do I sell an item
+
+### How can I remove an item from the sale
+
+# Privacy
+
+### What is allowed or not allowed in this app?
+
+### Is this app safe?
+
+### How will my information be used?
+
+### What information do I need on my profile?
+
+# Others
+
+### Who can I contact for help?
+
+### who uses it?
+
+Everyone can use it, but it is mainly specialized for buyers and sellers to trade different game items.
+
+### What is special about this app?
+
+### How is it different from other apps?
+
+### How do I exchange currency?
