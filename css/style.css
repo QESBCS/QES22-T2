@@ -981,11 +981,11 @@ button:focus {
   z-index: 11;
 }
 
-.service-tab-section {
+.servicess-tab-section {
   position: relative;
 }
 
-.service-tab-section .outer-box {
+.servicess-tab-section .outer-box {
   position: relative;
   z-index: 1;
 }
@@ -1030,33 +1030,33 @@ button:focus {
   z-index: 99;
 }
 
-.service-box {
+.servicess-box {
   position: relative;
   width: 100%;
 }
 
-.service-box img {
+.servicess-box img {
   border-radius: 14px;
   width: 100%;
   box-shadow: 0px 0px 20px -5px rgba(0, 0, 0, 0.2);
 }
 
-.service-box .contents {
+.servicess-box .contents {
   margin-left: 30px;
 }
 
 @media (max-width: 991px) {
-  .service-box .contents {
+  .servicess-box .contents {
     margin-left: 0;
     margin-top: 50px;
   }
 }
 
-.service-box .contents .btn-style-one {
+.servicess-box .contents .btn-style-one {
   margin-top: 20px;
 }
 
-.service-box .section-title h3 {
+.servicess-box .section-title h3 {
   position: relative;
   font-size: 32px;
   line-height: 42px;
@@ -1067,7 +1067,7 @@ button:focus {
   text-transform: uppercase;
 }
 
-.service-box .section-title h3:before {
+.servicess-box .section-title h3:before {
   position: absolute;
   left: 0px;
   content: '';
@@ -1077,29 +1077,29 @@ button:focus {
   width: 55px;
 }
 
-.service-box .text {
+.servicess-box .text {
   position: relative;
   margin-bottom: 15px;
 }
 
-.service-box .text p {
+.servicess-box .text p {
   font-size: 15px;
   line-height: 26px;
   font-weight: 500;
   padding-top: 5px;
 }
 
-.service-box .icon-box {
+.servicess-box .icon-box {
   position: absolute;
   top: 0px;
   left: -5px;
 }
 
-.service-box .content-list {
+.servicess-box .content-list {
   padding-left: 0;
 }
 
-.service-box .content-list li {
+.servicess-box .content-list li {
   font-size: 15px;
   line-height: 26px;
   font-weight: 500;
@@ -1109,66 +1109,66 @@ button:focus {
   position: relative;
 }
 
-.service-box .content-list li i {
+.servicess-box .content-list li i {
   position: absolute;
   left: 0;
   top: 9px;
 }
 
-.service-section {
+.servicess-section {
   position: relative;
 }
 
-.service-section .section-title h3 {
+.servicess-section .section-title h3 {
   position: relative;
   padding-bottom: 15px;
 }
 
-.service-section .section-title p {
+.servicess-section .section-title p {
   font-size: 15px;
   line-height: 26px;
   color: #777777;
   font-weight: 400;
 }
 
-.service-section .items-container {
+.servicess-section .items-container {
   margin-top: 30px;
 }
 
-.service-section .items-container .slick-prev:before,
-.service-section .items-container .slick-next:before {
+.servicess-section .items-container .slick-prev:before,
+.servicess-section .items-container .slick-next:before {
   font-size: 25px;
   color: #48bdc5;
 }
 
-.service-section .items-container .item {
+.servicess-section .items-container .item {
   margin: 10px 15px;
   outline: 0;
 }
 
 @media screen and (max-width: 525px) {
-  .service-section .items-container .item {
+  .servicess-section .items-container .item {
     margin: 10px 5px;
   }
 }
 
-.service-section .inner-box {
+.servicess-section .inner-box {
   position: relative;
   border-radius: 5px 5px 0px 0px;
   box-shadow: 0 0 20px #f1f1f1;
 }
 
-.service-section .inner-box .img_holder img {
+.servicess-section .inner-box .img_holder img {
   width: 100%;
   border-radius: 5px;
 }
 
-.service-section .inner-box .image-content {
+.servicess-section .inner-box .image-content {
   padding: 38px 30px;
   background: #fff;
 }
 
-.service-section .inner-box .image-content span {
+.servicess-section .inner-box .image-content span {
   font-size: 15px;
   line-height: 26px;
   font-weight: 400;
@@ -1176,7 +1176,7 @@ button:focus {
   letter-spacing: .5px;
 }
 
-.service-section .inner-box .image-content h6 {
+.servicess-section .inner-box .image-content h6 {
   font-size: 18px;
   line-height: 28px;
   font-weight: 600;
@@ -1186,7 +1186,7 @@ button:focus {
   text-transform: uppercase;
 }
 
-.service-section .inner-box .image-content p {
+.servicess-section .inner-box .image-content p {
   font-size: 15px;
   line-height: 26px;
   font-weight: 400;
@@ -1194,17 +1194,17 @@ button:focus {
   margin-bottom: 0;
 }
 
-.service-two .left-side {
+.servicess-two .left-side {
   padding: 140px 0px;
 }
 
-.service-two .left-side .section-title h3 {
+.servicess-two .left-side .section-title h3 {
   position: relative;
   padding-bottom: 15px;
   margin-bottom: 22px;
 }
 
-.service-two .left-side .section-title h3:before {
+.servicess-two .left-side .section-title h3:before {
   position: absolute;
   content: '';
   background: #ececec;
@@ -1214,7 +1214,7 @@ button:focus {
   width: 240px;
 }
 
-.service-two .left-side .section-title h3:after {
+.servicess-two .left-side .section-title h3:after {
   position: absolute;
   content: '';
   background: #48bdc5;
@@ -1224,7 +1224,7 @@ button:focus {
   width: 50px;
 }
 
-.service-two .left-side .section-title p {
+.servicess-two .left-side .section-title p {
   font-size: 15px;
   line-height: 26px;
   color: #777777;
@@ -1232,18 +1232,18 @@ button:focus {
   padding-bottom: 40px;
 }
 
-.service-two .social-links {
+.servicess-two .social-links {
   margin-bottom: 50px;
 }
 
-.service-two .social-links li {
+.servicess-two .social-links li {
   position: relative;
   display: inline-block;
   width: 170px;
   margin-right: 40px;
 }
 
-.service-two .social-links li .icon-box {
+.servicess-two .social-links li .icon-box {
   width: 95px;
   height: 95px;
   line-height: 95px;
@@ -1253,12 +1253,12 @@ button:focus {
   border: 1px solid #dfdfdf;
 }
 
-.service-two .social-links li .icon-box i:before {
+.servicess-two .social-links li .icon-box i:before {
   font-size: 35px;
   color: #222222;
 }
 
-.service-two .social-links li .border-shep {
+.servicess-two .social-links li .border-shep {
   position: absolute;
   content: '';
   top: 50px;
@@ -1268,7 +1268,7 @@ button:focus {
   width: 20px;
 }
 
-.service-two .social-links li h6 {
+.servicess-two .social-links li h6 {
   font-size: 16px;
   line-height: 28px;
   color: #222222;
@@ -1277,14 +1277,14 @@ button:focus {
   letter-spacing: .5px;
 }
 
-.service-two .link-buttons li {
+.servicess-two .link-buttons li {
   display: inline-block;
   color: #777777;
   font-size: 18px;
   font-weight: 400;
 }
 
-.service-two .link-buttons li.link-btn a {
+.servicess-two .link-buttons li.link-btn a {
   font-size: 14px;
   line-height: 26px;
   font-weight: 600;
@@ -1295,52 +1295,52 @@ button:focus {
   line-height: 45px;
 }
 
-.service-two .link-buttons li.link-btn.style-one {
+.servicess-two .link-buttons li.link-btn.style-one {
   background: #48bdc5;
   transition: all 500ms ease;
 }
 
-.service-two .link-buttons li.link-btn.style-one:hover {
+.servicess-two .link-buttons li.link-btn.style-one:hover {
   background: #7b64cb;
   transition: all 500ms ease;
 }
 
-.service-two .link-buttons li.or-background {
+.servicess-two .link-buttons li.or-background {
   margin: 0px 20px;
 }
 
-.service-two .link-buttons li.link-btn.style-two {
+.servicess-two .link-buttons li.link-btn.style-two {
   background: #7b64cb;
   transition: all 500ms ease;
 }
 
-.service-two .link-buttons li.link-btn.style-two:hover {
+.servicess-two .link-buttons li.link-btn.style-two:hover {
   background: #48bdc5;
   transition: all 500ms ease;
 }
 
-.service-two .image-box img {
+.servicess-two .image-box img {
   width: 100%;
   margin-top: 28px;
 }
 
-.service-details {
+.servicess-details {
   padding: 120px 0px;
 }
 
-.service-details .left-side {
+.servicess-details .left-side {
   margin-right: 40px;
 }
 
-.service-details .left-side .image-holder .image-box {
+.servicess-details .left-side .image-holder .image-box {
   margin-bottom: 40px;
 }
 
-.service-details .left-side .image-holder img {
+.servicess-details .left-side .image-holder img {
   width: 100%;
 }
 
-.service-details .left-side .text-title h6 {
+.servicess-details .left-side .text-title h6 {
   font-size: 20px;
   line-height: 30px;
   font-weight: 600;
@@ -1349,7 +1349,7 @@ button:focus {
   text-transform: uppercase;
 }
 
-.service-details .left-side .links-btn a {
+.servicess-details .left-side .links-btn a {
   font-size: 14px;
   line-height: 26px;
   font-weight: 700;
@@ -1362,12 +1362,12 @@ button:focus {
   text-transform: uppercase;
 }
 
-.service-details .left-side .links-btn a i {
+.servicess-details .left-side .links-btn a i {
   font-size: 14px;
   margin-right: 10px;
 }
 
-.service-details .left-side .text p {
+.servicess-details .left-side .text p {
   font-size: 15px;
   line-height: 30px;
   font-weight: 400;
@@ -1376,12 +1376,12 @@ button:focus {
   letter-spacing: 0.3px;
 }
 
-.service-details .left-side .image-text {
+.servicess-details .left-side .image-text {
   margin-top: 40px;
   margin-bottom: 10px;
 }
 
-.service-details .left-side .image-text h6 {
+.servicess-details .left-side .image-text h6 {
   position: relative;
   font-size: 22px;
   font-weight: 700;
@@ -1391,7 +1391,7 @@ button:focus {
   margin-bottom: 15px;
 }
 
-.service-details .left-side .image-text h6:before {
+.servicess-details .left-side .image-text h6:before {
   position: absolute;
   content: '';
   background: #e0e0e0;
@@ -1401,7 +1401,7 @@ button:focus {
   width: 50px;
 }
 
-.service-details .left-side .image-text p {
+.servicess-details .left-side .image-text p {
   font-size: 15px;
   line-height: 30px;
   font-weight: 400;
@@ -1487,24 +1487,24 @@ button:focus {
   padding: 20px 0px;
 }
 
-.service-details .right-side {
+.servicess-details .right-side {
   margin-left: -30px;
 }
 
-.service-details .right-side .categori-list {
+.servicess-details .right-side .categori-list {
   margin-top: 25px;
 }
 
-.service-details .right-side .categori-list li {
+.servicess-details .right-side .categori-list li {
   transition: all 500ms ease 0s;
 }
 
-.service-details .right-side .categori-list li:hover {
+.servicess-details .right-side .categori-list li:hover {
   transition: all 500ms ease 0s;
   background: linear-gradient(to right, rgba(122, 102, 203, 0.8) 0%, rgba(72, 189, 197, 0.74) 100%);
 }
 
-.service-details .right-side .categori-list li a {
+.servicess-details .right-side .categori-list li a {
   font-size: 17px;
   line-height: 28px;
   font-weight: 400;
@@ -1515,33 +1515,33 @@ button:focus {
   border: 1px solid #ececec;
 }
 
-.service-details .right-side .categori-list li i:before {
+.servicess-details .right-side .categori-list li i:before {
   margin-top: 8px;
   margin-right: 10px;
   color: #334d5e;
 }
 
-.service-details .right-side .categori-list li:hover a,
-.service-details .right-side .categori-list li:hover i:before {
+.servicess-details .right-side .categori-list li:hover a,
+.servicess-details .right-side .categori-list li:hover i:before {
   color: #ffffff;
   transition: all 500ms ease 0s;
 }
 
-.service-details .service-testimonials {
+.servicess-details .servicess-testimonials {
   margin-top: 65px;
   margin-bottom: 60px;
 }
 
-.service-details .service-testimonials .text-title h6 {
+.servicess-details .servicess-testimonials .text-title h6 {
   margin-bottom: 30px;
 }
 
-.service-details .service-testimonials .item {
+.servicess-details .servicess-testimonials .item {
   padding: 40px 17px;
   border: 2px solid #e5e5e5;
 }
 
-.service-details .service-testimonials .text p {
+.servicess-details .servicess-testimonials .text p {
   font-size: 15px;
   font-weight: 400;
   line-height: 26px;
@@ -1549,7 +1549,7 @@ button:focus {
   padding-top: 15px;
 }
 
-.service-details .service-testimonials strong {
+.servicess-details .servicess-testimonials strong {
   font-size: 14px;
   line-height: 26px;
   color: #222222;
@@ -1557,34 +1557,34 @@ button:focus {
   text-transform: uppercase;
 }
 
-.service-details .service-testimonials .image img {
+.servicess-details .servicess-testimonials .image img {
   display: inline-block;
 }
 
-.service-details .service-testimonials .owl-theme .owl-controls {
+.servicess-details .servicess-testimonials .owl-theme .owl-controls {
   display: none;
 }
 
-.service-details .contact-links {
+.servicess-details .contact-links {
   padding: 50px 30px;
   border: 2px solid #e5e5e5;
 }
 
-.service-details .contact-links .text-title h6 {
+.servicess-details .contact-links .text-title h6 {
   margin-bottom: 30px;
 }
 
-.service-details .contact-text .item {
+.servicess-details .contact-text .item {
   position: relative;
   padding-left: 65px;
   margin-bottom: 20px;
 }
 
-.service-details .contact-text .item:last-child {
+.servicess-details .contact-text .item:last-child {
   margin-bottom: 0px;
 }
 
-.service-details .contact-text .item .icon-box {
+.servicess-details .contact-text .item .icon-box {
   position: absolute;
   top: 0px;
   left: 0px;
@@ -1595,12 +1595,12 @@ button:focus {
   background: #f2f2f2;
 }
 
-.service-details .contact-text .item i:before {
+.servicess-details .contact-text .item i:before {
   font-size: 20px;
   color: #53c0c8;
 }
 
-.service-details .contact-text .item p {
+.servicess-details .contact-text .item p {
   font-size: 15px;
   line-height: 26px;
   font-weight: 400;
@@ -1608,7 +1608,7 @@ button:focus {
   margin-bottom: 0px;
 }
 
-.service-overview .content-block h2 {
+.servicess-overview .content-block h2 {
   font-size: 40px;
   color: #000;
   text-transform: uppercase;
@@ -1618,7 +1618,7 @@ button:focus {
   position: relative;
 }
 
-.service-overview .content-block h2:before {
+.servicess-overview .content-block h2:before {
   position: absolute;
   width: 50px;
   height: 1px;
@@ -1627,31 +1627,31 @@ button:focus {
   background: #48bdc5;
 }
 
-.service-overview .content-block p {
+.servicess-overview .content-block p {
   font-size: 16px;
   margin-bottom: 30px;
 }
 
-.service-overview .content-block ul {
+.servicess-overview .content-block ul {
   padding-left: 0;
   padding-bottom: 20px;
 }
 
-.service-overview .content-block ul li {
+.servicess-overview .content-block ul li {
   text-transform: capitalize;
   font-weight: bold;
   font-size: 16px;
 }
 
-.service-overview .content-block ul li i {
+.servicess-overview .content-block ul li i {
   margin-right: 10px;
 }
 
-.service-overview .content-block ul li:not(:last-child) {
+.servicess-overview .content-block ul li:not(:last-child) {
   margin-bottom: 5px;
 }
 
-.service-overview .accordion-holder {
+.servicess-overview .accordion-holder {
   margin-top: 0;
 }
 
@@ -3289,14 +3289,14 @@ button:focus {
 }
 
 @media only screen and (min-width: 1920px) {
-  .service-tab-section .tab-list-column .tab-list {
+  .servicess-tab-section .tab-list-column .tab-list {
     margin-left: 30% !important;
     margin-right: -30% !important;
   }
 }
 
 @media only screen and (max-width: 1200px) {
-  .service-section .filter {
+  .servicess-section .filter {
     margin-bottom: 20px !important;
   }
   .footer-bottom .copyright-text {
@@ -3338,7 +3338,7 @@ button:focus {
   .main-header.style-two .main-menu {
     float: none !important;
   }
-  .service-tab-section .tab-content .inner-box {
+  .servicess-tab-section .tab-content .inner-box {
     padding-left: 0px;
   }
   .feature-section .contact-info .item {
@@ -3346,19 +3346,19 @@ button:focus {
     margin-right: 30px !important;
     margin-bottom: 20px !important;
   }
-  .service-tab-section .tab-list-column {
+  .servicess-tab-section .tab-list-column {
     width: 100% !important;
   }
-  .service-tab-section .tab-list-column .tab-list,
-  .service-tab-section .tab-content .inner-box {
+  .servicess-tab-section .tab-list-column .tab-list,
+  .servicess-tab-section .tab-content .inner-box {
     float: none !important;
     padding-left: 115px !important;
     max-width: 700px !important;
   }
-  .service-tab-section .tab-content {
+  .servicess-tab-section .tab-content {
     width: 100% !important;
   }
-  .service-tab-section .tab-content .content-list {
+  .servicess-tab-section .tab-content .content-list {
     margin-top: 40px !important;
   }
   .fact-counter .column .item {
@@ -3391,7 +3391,7 @@ button:focus {
     margin-left: 0px !important;
     margin-top: 40px !important;
   }
-  .service-details .right-side {
+  .servicess-details .right-side {
     margin-left: 0px !important;
   }
   .gallery-section .owl-theme .owl-controls .owl-nav .owl-prev {
@@ -3564,8 +3564,8 @@ button:focus {
   .footer-main .footer-top .gallery-widget {
     margin-left: 0px !important;
   }
-  .service-tab-section .tab-list-column .tab-list,
-  .service-tab-section .tab-content .inner-box {
+  .servicess-tab-section .tab-list-column .tab-list,
+  .servicess-tab-section .tab-content .inner-box {
     margin-left: 0px !important;
   }
   .rev_slider_wrapper .tp-caption img {
@@ -3600,16 +3600,16 @@ button:focus {
   .work-skill .skills h6 {
     margin-bottom: 40px;
   }
-  .service-two .social-links li .border-shep {
+  .servicess-two .social-links li .border-shep {
     display: none !important;
   }
-  .service-two .social-links li {
+  .servicess-two .social-links li {
     margin-bottom: 20px;
   }
-  .service-two .link-buttons li {
+  .servicess-two .link-buttons li {
     margin-bottom: 20px;
   }
-  .service-two .left-side {
+  .servicess-two .left-side {
     padding: 50px 0px !important;
   }
   .fixed-header {
@@ -3634,8 +3634,8 @@ button:focus {
     margin-right: 10px !important;
     margin-bottom: 30px !important;
   }
-  .service-tab-section .tab-list-column .tab-list,
-  .service-tab-section .tab-content .inner-box {
+  .servicess-tab-section .tab-list-column .tab-list,
+  .servicess-tab-section .tab-content .inner-box {
     padding-left: 20px !important;
   }
 }
